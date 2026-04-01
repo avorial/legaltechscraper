@@ -1,0 +1,18 @@
+
+==========================================
+ News Scraper -- Build EXE
+==========================================
+
+[1/4] Closing any running NewsScraper instance...
+      NewsScraper.exe was not running.
+
+[2/4] Checking dependencies...
+      Done.
+
+[3/4] Running PyInstaller...
+
+C:\Users\patricthomas\AppData\Roaming\Claude\Claude Extensions\ant.dir.cursortouch.windows-mcp\.venv\Scripts\python.exe: No module named PyInstaller
+
+[4/4] Build FAILED -- check the output above for errors.
+
+Press any key to continue . . . 

@@ -1,0 +1,30 @@
+Killing old instance...
+SUCCESS: The process "NewsScraper.exe" with PID 53600 has been terminated.
+SUCCESS: The process "NewsScraper.exe" with PID 40180 has been terminated.
+Running PyInstaller with C:\Python314\python.exe...
+279 INFO: PyInstaller: 6.19.0, contrib hooks: 2026.3
+280 INFO: Python: 3.14.3
+348 INFO: Platform: Windows-11-10.0.22631-SP0
+348 INFO: Python environment: C:\Python314
+349 INFO: wrote C:\Users\patricthomas\Desktop\legaltechnewsscraper\NewsScraper.spec
+353 INFO: Removing temporary files and cleaning cache in C:\Users\patricthomas\AppData\Local\pyinstaller
+361 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\patricthomas\\Desktop\\legaltechnewsscraper',
+ 'C:\\Python314\\python314.zip',
+ 'C:\\Python314\\DLLs',
+ 'C:\\Python314\\Lib',
+ 'C:\\Python314',
+ 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages',
+ 'C:\\Python314\\Lib\\site-packages',
+ 'C:\\Users\\patricthomas\\Desktop\\legaltechnewsscraper']
+976 INFO: Appending 'datas' from .spec
+976 INFO: checking Analysis
+976 INFO: Building Analysis because Analysis-00.toc is non existent
+976 INFO: Looking for Python shared library...
+976 INFO: Using Python shared library: C:\Python314\python314.dll
+976 INFO: Running Analysis Analysis-00.toc
+976 INFO: Target bytecode optimization level: 0
+976 INFO: Initializing module dependency graph...
+978 INFO: Initializing module graph hook caches...
+997 INFO: Analyzing modules for base_library.zip ...
+^CTerminate batch job (Y/N)? 

@@ -1,0 +1,111 @@
+SUCCESS: The process "NewsScraper.exe" with PID 35092 has been terminated.
+SUCCESS: The process "NewsScraper.exe" with PID 31420 has been terminated.
+235 INFO: PyInstaller: 6.19.0, contrib hooks: 2026.3
+235 INFO: Python: 3.14.3
+292 INFO: Platform: Windows-11-10.0.26200-SP0
+293 INFO: Python environment: C:\Python314
+293 INFO: wrote C:\Users\patricthomas\Desktop\legaltechnewsscraper\NewsScraper.spec
+299 INFO: Removing temporary files and cleaning cache in C:\Users\patricthomas\AppData\Local\pyinstaller
+332 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\patricthomas\\Desktop\\legaltechnewsscraper',
+ 'C:\\Python314\\python314.zip',
+ 'C:\\Python314\\DLLs',
+ 'C:\\Python314\\Lib',
+ 'C:\\Python314',
+ 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages',
+ 'C:\\Python314\\Lib\\site-packages',
+ 'C:\\Users\\patricthomas\\Desktop\\legaltechnewsscraper']
+818 INFO: Appending 'datas' from .spec
+818 INFO: checking Analysis
+819 INFO: Building Analysis because Analysis-00.toc is non existent
+819 INFO: Looking for Python shared library...
+819 INFO: Using Python shared library: C:\Python314\python314.dll
+819 INFO: Running Analysis Analysis-00.toc
+819 INFO: Target bytecode optimization level: 0
+819 INFO: Initializing module dependency graph...
+820 INFO: Initializing module graph hook caches...
+840 INFO: Analyzing modules for base_library.zip ...
+2882 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+3465 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+3734 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+3748 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+6580 INFO: Caching module dependency graph...
+6612 INFO: Analyzing C:\Users\patricthomas\Desktop\legaltechnewsscraper\ui.py
+6699 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+6820 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+7197 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+7203 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+7226 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+7228 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+7625 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+8077 INFO: Processing standard module hook 'hook-urllib3.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+8211 INFO: Processing pre-safe-import-module hook 'hook-backports.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+8213 INFO: SetuptoolsInfo: initializing cached setuptools info...
+9125 INFO: Setuptools: 'backports' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vendor.backports'!
+9134 INFO: Processing standard module hook 'hook-setuptools.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+9189 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+9193 INFO: Processing pre-safe-import-module hook 'hook-distutils.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+9232 INFO: Processing pre-safe-import-module hook 'hook-jaraco.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+9233 INFO: Setuptools: 'jaraco' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco'!
+9253 INFO: Processing pre-safe-import-module hook 'hook-more_itertools.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+9254 INFO: Setuptools: 'more_itertools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.more_itertools'!
+9416 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+10262 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+10482 INFO: Processing standard module hook 'hook-setuptools._vendor.jaraco.text.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+10484 INFO: Processing pre-safe-import-module hook 'hook-importlib_resources.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+10704 INFO: Processing pre-safe-import-module hook 'hook-importlib_metadata.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+10705 INFO: Setuptools: 'importlib_metadata' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.importlib_metadata'!
+10740 INFO: Processing standard module hook 'hook-setuptools._vendor.importlib_metadata.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+10776 INFO: Processing pre-safe-import-module hook 'hook-zipp.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+10777 INFO: Setuptools: 'zipp' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.zipp'!
+11111 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+11112 INFO: Setuptools: 'tomli' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.tomli'!
+11791 INFO: Processing pre-safe-import-module hook 'hook-wheel.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+11792 INFO: Setuptools: 'wheel' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.wheel'!
+12439 INFO: Processing standard module hook 'hook-charset_normalizer.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+12656 INFO: Processing standard module hook 'hook-certifi.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+13263 INFO: Processing standard module hook 'hook-lxml.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+13682 INFO: Processing standard module hook 'hook-lxml.etree.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+13780 INFO: Analyzing hidden import 'botasaurus'
+13781 INFO: Processing module hooks (post-graph stage)...
+14769 INFO: Processing standard module hook 'hook-lxml.isoschematron.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+15325 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks'
+15326 INFO: Processing standard module hook 'hook-lxml.objectify.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+15338 INFO: Performing binary vs. data reclassification (947 entries)
+15419 INFO: Looking for ctypes DLLs
+15457 INFO: Analyzing run-time hooks ...
+15460 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks'
+15463 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks'
+15466 INFO: Including run-time hook 'pyi_rth_setuptools.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks'
+15467 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks'
+15469 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\patricthomas\\AppData\\Roaming\\Python\\Python314\\site-packages\\PyInstaller\\hooks\\rthooks'
+15501 INFO: Creating base_library.zip...
+15519 INFO: Looking for dynamic libraries
+16648 INFO: Extra DLL search directories (AddDllDirectory): []
+16648 INFO: Extra DLL search directories (PATH): []
+17195 INFO: Warnings written to C:\Users\patricthomas\Desktop\legaltechnewsscraper\build\NewsScraper\warn-NewsScraper.txt
+17240 INFO: Graph cross-reference written to C:\Users\patricthomas\Desktop\legaltechnewsscraper\build\NewsScraper\xref-NewsScraper.html
+17285 INFO: checking PYZ
+17285 INFO: Building PYZ because PYZ-00.toc is non existent
+17285 INFO: Building PYZ (ZlibArchive) C:\Users\patricthomas\Desktop\legaltechnewsscraper\build\NewsScraper\PYZ-00.pyz
+17676 INFO: Building PYZ (ZlibArchive) C:\Users\patricthomas\Desktop\legaltechnewsscraper\build\NewsScraper\PYZ-00.pyz completed successfully.
+17705 INFO: checking PKG
+17705 INFO: Building PKG because PKG-00.toc is non existent
+17705 INFO: Building PKG (CArchive) NewsScraper.pkg
+19809 INFO: Building PKG (CArchive) NewsScraper.pkg completed successfully.
+19823 INFO: Bootloader C:\Users\patricthomas\AppData\Roaming\Python\Python314\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+19823 INFO: checking EXE
+19823 INFO: Building EXE because EXE-00.toc is non existent
+19823 INFO: Building EXE from EXE-00.toc
+19827 INFO: Copying bootloader EXE to C:\Users\patricthomas\Desktop\legaltechnewsscraper\dist\NewsScraper.exe
+19907 INFO: Copying icon to EXE
+19915 INFO: Copying 0 resources to EXE
+19915 INFO: Embedding manifest in EXE
+19990 INFO: Appending PKG archive to EXE
+19990 WARNING: Execution of '_append_data_to_exe' failed on attempt #1 / 20: PermissionError(13, 'Permission denied'). Retrying in 0.05 second(s)...
+20043 WARNING: Execution of '_append_data_to_exe' failed on attempt #2 / 20: PermissionError(13, 'Permission denied'). Retrying in 0.06 second(s)...
+20213 INFO: Fixing EXE headers
+22068 INFO: Building EXE from EXE-00.toc completed successfully.
+22081 INFO: Build complete! The results are available in: C:\Users\patricthomas\Desktop\legaltechnewsscraper\dist
+BUILD SUCCESS
+Copied to Desktop!

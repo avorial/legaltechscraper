@@ -1,0 +1,13 @@
+# Core scraping framework (CLI / scraper.py)
+botasaurus>=3.2.0
+
+# GUI and direct scraping (ui.py) — also transitively included by botasaurus
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# RSS / Atom feed parsing
+feedparser>=6.0.0
+
+# Packaging (only needed to build the .exe — not required to run the app)
+# pyinstaller>=6.0.0
